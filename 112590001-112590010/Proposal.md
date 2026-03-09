@@ -12,13 +12,10 @@
 植物大戰殭屍 是一款塔防遊戲，玩家需要利用擁有的植物抵抗殭屍，。  
 玩家完成每個初期關卡後獲得新的植物，植物可以發射子彈、減速或造成範圍攻擊，而殭屍會從地圖右側慢慢向左移動。  
 
-[遊戲連結](https://www.youtube.com/watch?v=2BGA79PKaZ8)
+[遊戲連結](https://youtu.be/XENla8M3910?si=odsjpmxuRFgF3s-h)
 
 # Development timeline
 
-- Week 01：撰寫 Proposal、完成練習
-  - [ ] 撰寫 Proposal
-  - [ ] 完成練習
 - Week 02：蒐集素材
   - [ ] 蒐集植物與殭屍素材
   - [ ] 設計地圖格子
@@ -53,10 +50,10 @@
   - [ ] 陽光生成系統
   - [ ] 種植消耗機制
 - Week 13：新增關卡
-  - [ ] 設計 Level 2、Level 3
+  - [ ] 設計關卡
   - [ ] 設計殭屍 wave
 - Week 14：新增關卡
-  - [ ] 設計 Level 2、Level 3
+  - [ ] 設計關卡
   - [ ] 設計殭屍 wave
 - Week 15：動畫與音效
   - [ ] 植物攻擊動畫
